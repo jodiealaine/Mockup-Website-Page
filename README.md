@@ -1,5 +1,5 @@
 # Mockup-Website-Page
-## P1: Mockup to Website 
+## P1: Mockup to Website [Demo](http://jodiealaine.github.io/mockup-website-page/)
 
 ## Project Overview
 This is the first project on Udacity's Front-End Web Developer Nanodegree program.
@@ -10,5 +10,7 @@ You will be provided a design mockup as a PDF-file and must replicate the design
 ## Delivery
 
 Website that replicates the design of the PDF-file
+
+[Demo](http://jodiealaine.github.io/mockup-website-page/)
 
 
